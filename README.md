@@ -1,3 +1,37 @@
+# 🚀 SaaS Landing Page (React + Tailwind CSS)
+
+A **modern, responsive SaaS landing page** built with **React** and **Tailwind CSS**, designed to showcase software products and convert visitors into customers.  
+It features clean design, reusable components, and a fully mobile-friendly layout.
+
+## 🌟 Features
+
+✅ Fully responsive layout for all devices  
+✅ Built with **React + Tailwind CSS**  
+✅ Modular component structure  
+✅ Modern dark UI theme  
+✅ Sections included:
+- Navbar  
+- Hero Section  
+- Partners  
+- Benefits / Features  
+- How It Works  
+- Pricing Plans  
+- Testimonials  
+- FAQ  
+- CTA Section  
+- Footer  
+
+## 🧩 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| ⚛️ React | UI framework |
+| 🎨 Tailwind CSS | Styling & layout |
+| 🧠 Lucide React | Icons |
+| ⚡ Vite / CRA | Build tool (depends on setup) |
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
